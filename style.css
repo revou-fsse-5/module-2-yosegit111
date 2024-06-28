@@ -68,7 +68,7 @@ main {
 
 header{
     background: url(assets/sg-vol.jpg) no-repeat center center;
-    background-size:cover;
+    background-size:100%;
     width:100%;
     text-align: center;
     color:white;

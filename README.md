@@ -14,6 +14,6 @@ Tech sales professional currently working as Account Executive at MongoDB.
 |Instagram   |@yosegita     | 
 
 ## What I'm Building
-I'm building a simpile HTML site for Indonesian Professionals Association in Singapore. In this page, members can sign up and view upcoming events, as well as registering for them directly. You can visit my link [here](https://revou-fsse-5.github.io/module-1-yosegit111/).
+I'm building a simpile HTML site for Indonesian Professionals Association in Singapore. In this page, members can sign up and view upcoming events, as well as registering for them directly. You can visit my link [here](https://revou-fsse-5.github.io/module-2-yosegit111/).
 
 Thank you!
